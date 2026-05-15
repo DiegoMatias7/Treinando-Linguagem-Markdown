@@ -1,2 +1,2 @@
-# Treinando-Linguagem-Markdown
+# Linguagem-Markdown
 Criado para treinar linguagem makdown
